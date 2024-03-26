@@ -1,0 +1,76 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "admin luminar",
+      "email": "admin@gmail.com",
+      "password": "admin123"
+    },
+    {
+      "id": "3",
+      "name": "veda",
+      "email": "veda@gmail.com",
+      "active": "0"
+    },
+    {
+      "id": "5",
+      "name": "Soorya",
+      "email": "ksooryasuresh@gmail.com",
+      "active": "1"
+    },
+    {
+      "id": "26",
+      "name": "Dinil mk",
+      "email": "dinil@gmail.com",
+      "active": "0"
+    },
+    {
+      "id": "21",
+      "name": "manju ashbind",
+      "email": "manju@gmail.com",
+      "active": "1"
+    },
+    {
+      "id": "23",
+      "name": "shamna",
+      "email": "shamna@gmail.com",
+      "active": "1"
+    },
+    {
+      "id": "11",
+      "name": "rahul",
+      "email": "rahul@gmail.com",
+      "active": "0"
+    },
+    {
+      "id": "10",
+      "name": "shyam",
+      "email": "shyamc@gmail.com",
+      "active": "1"
+    },
+    {
+      "id": "55",
+      "name": "Dev",
+      "email": "dev@gmail.com",
+      "active": "0"
+    },
+    {
+      "id": "102",
+      "name": "madhav",
+      "email": "madhav@gmail.com",
+      "active": "0"
+    },
+    {
+      "id": "4",
+      "name": "ayisha",
+      "email": "ayisha@gmail.com",
+      "active": "1"
+    },
+    {
+      "id": "51",
+      "name": "Sandeep",
+      "email": "sandeep@gmail.com",
+      "active": "1"
+    }
+  ]
+}
